@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TEA": {
+      "commandName": "Project",
+      "commandLineArgs": "text.txt key.txt",
+      "workingDirectory": "D:\\Works\\IB\\TEA",
+      "hotReloadEnabled": false
+    }
+  }
+}

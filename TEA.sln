@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TEA", "TEA.csproj", "{1DD9877C-2D15-4567-9B25-76A950BB0586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Sas|Any CPU = Sas|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DD9877C-2D15-4567-9B25-76A950BB0586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD9877C-2D15-4567-9B25-76A950BB0586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD9877C-2D15-4567-9B25-76A950BB0586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD9877C-2D15-4567-9B25-76A950BB0586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD9877C-2D15-4567-9B25-76A950BB0586}.Sas|Any CPU.ActiveCfg = Sas|Any CPU
+		{1DD9877C-2D15-4567-9B25-76A950BB0586}.Sas|Any CPU.Build.0 = Sas|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1D36871-89D2-4805-86AF-B81B9BAE86D5}
+	EndGlobalSection
+EndGlobal
